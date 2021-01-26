@@ -37,7 +37,7 @@ public class Practica1_Ejercicio5 {
         }
         System.out.println("\n---------------------------------------------");
         System.out.println("Product: ");
-        System.out.println(product);
+        System.out.println(product); 
     }
 
 }
